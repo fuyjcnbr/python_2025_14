@@ -30,6 +30,8 @@ uv run server.py
 
 На хост машине сервер доступен на http://localhost:80
 
+Для тестирования HEAD и GET - http://localhost:80/test
+
 ## В другом терминале lucust
 
 ```console
