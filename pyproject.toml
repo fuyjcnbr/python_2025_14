@@ -1,0 +1,11 @@
+[project]
+name = "python_2025_11"
+version = "0.1.0"
+description = "test project"
+readme = "readme.md"
+requires-python = ">=3.12"
+dependencies = [
+    "psutil",
+    "pytest",
+    "locust",
+]
